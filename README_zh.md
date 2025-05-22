@@ -13,21 +13,21 @@
 ![Redis](https://img.shields.io/badge/Redis-whitesmoke?style=for-the-badge&logo=redis)
 
 
-## Environment
+## 学习环境
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
+LabEx 是一个专注于编程和技术的交互式动手学习平台。它结合了实验室、AI 辅助和虚拟机，提供无视频的实践学习体验。
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
-- Interactive online environments within the browser, with automated step-by-step checks.
-- A structured content organization with the Skill Tree based learning system.
-- A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- 严格的"边学边做"方法，提供独家动手实验，无视频。
+- 浏览器内的交互式在线环境，具有自动化的逐步检查。
+- 基于技能树的结构化内容组织系统。
+- 不断增长的学习资源，包含 30 个技能树和超过 6,000 个实验。
+- 基于 ChatGPT 构建的 AI 学习助手 Labby，提供对话式学习体验。
 
-Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+了解更多关于 [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
-## Exercises
+## 练习
 
 |   Index | Name                              | Difficulty   | Practice                                                                                                                            |
 |---------|-----------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      09 | 📖 Redis 中的持久化和简单配置     | ★☆☆          | <a target='_blank' href='https://labex.io/zh/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Start Lab</a>    |
 |      10 | 🎯 配置 Redis maxmemory 限制      | ★☆☆          | <a target='_blank' href='https://labex.io/zh/tutorials/redis-configure-redis-maxmemory-limit-552162'>Start Challenge</a>            |
 
-## More
+## 更多
 
 - 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
