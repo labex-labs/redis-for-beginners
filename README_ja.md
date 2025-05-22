@@ -13,21 +13,21 @@
 ![Redis](https://img.shields.io/badge/Redis-whitesmoke?style=for-the-badge&logo=redis)
 
 
-## Environment
+## 環境
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
+LabEx は、コーディングとテクノロジーに特化したインタラクティブな実践学習プラットフォームです。ラボ、AI 支援、仮想マシンを組み合わせて、ビデオなしの実践的な学習体験を提供します。
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
-- Interactive online environments within the browser, with automated step-by-step checks.
-- A structured content organization with the Skill Tree based learning system.
-- A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- 動画なしの独自の実践ラボによる厳格な「実践による学習」アプローチ。
+- ブラウザ内のインタラクティブなオンライン環境で、自動化されたステップバイステップのチェック機能。
+- スキルツリーベースのシステムによる構造化されたコンテンツ組織。
+- 30 のスキルツリーと 6,000 以上のラボを含む成長し続ける学習リソース。
+- ChatGPT を基盤とした AI 学習アシスタント Labby による対話型学習体験。
 
-Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+詳細について [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
-## Exercises
+## 演習
 
 |   Index | Name                                                           | Difficulty   | Practice                                                                                                                            |
 |---------|----------------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      09 | 📖 Redis における永続性と簡単な構成                            | ★☆☆          | <a target='_blank' href='https://labex.io/ja/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Start Lab</a>    |
 |      10 | 🎯 Redis Maxmemory 制限の設定                                  | ★☆☆          | <a target='_blank' href='https://labex.io/ja/tutorials/redis-configure-redis-maxmemory-limit-552162'>Start Challenge</a>            |
 
-## More
+## その他
 
 - 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
