@@ -13,21 +13,21 @@ Neste curso, aprenda os fundamentos do Redis, incluindo instalação, operaçõe
 ![Redis](https://img.shields.io/badge/Redis-whitesmoke?style=for-the-badge&logo=redis)
 
 
-## Environment
+## Ambiente
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience.
+LabEx é uma plataforma de aprendizagem interativa e prática dedicada à programação e tecnologia. Combina laboratórios, assistência de IA e máquinas virtuais para fornecer uma experiência de aprendizagem prática sem vídeos.
 
 ![](https://tutorial-screenshot.getvm.io/images/vm-1725247253.png)
 
-- A strict "Learn by Doing" approach with exclusive hands-on labs and no videos.
-- Interactive online environments within the browser, with automated step-by-step checks.
-- A structured content organization with the Skill Tree based learning system.
-- A growing learning resource of 30 Skill Trees and over 6,000 Labs.
-- The AI learning assistant Labby, built on ChatGPT, providing a conversational learning experience.
+- Uma abordagem rigorosa de "Aprender Fazendo" com laboratórios práticos exclusivos e sem vídeos.
+- Ambientes online interativos no navegador, com verificações automatizadas passo a passo.
+- Uma organização de conteúdo estruturada com o sistema baseado em Árvore de Habilidades.
+- Um recurso de aprendizagem crescente de 30 Árvores de Habilidades e mais de 6.000 Laboratórios.
+- O assistente de aprendizagem de IA Labby, construído sobre ChatGPT, fornecendo uma experiência de aprendizagem conversacional.
 
-Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
+Saiba mais sobre [LabEx VM](https://support.labex.io/using-labex/virtual-machine).
 
-## Exercises
+## Exercícios
 
 |   Index | Name                                                     | Difficulty   | Practice                                                                                                                            |
 |---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
@@ -42,7 +42,7 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 |      09 | 📖 Persistência e Configuração Simples no Redis          | ★☆☆          | <a target='_blank' href='https://labex.io/pt/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Start Lab</a>    |
 |      10 | 🎯 Configurar Limite Maxmemory do Redis                  | ★☆☆          | <a target='_blank' href='https://labex.io/pt/tutorials/redis-configure-redis-maxmemory-limit-552162'>Start Challenge</a>            |
 
-## More
+## Mais
 
 - 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
