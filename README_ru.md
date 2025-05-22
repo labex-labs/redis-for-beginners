@@ -1,6 +1,6 @@
 # Redis для начинающих
 
-## Languages
+## Языки
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
@@ -29,18 +29,18 @@ LabEx - это интерактивная практическая обучаю�
 
 ## Упражнения
 
-|   Index | Name                                                     | Difficulty   | Practice                                                                                                                            |
-|---------|----------------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Установка и начальная настройка Redis                 | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-installation-and-initial-setup-of-redis-552075'>Start Lab</a>          |
-|      02 | 🎯 Проверка статуса сервера Redis                        | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-verify-redis-server-status-552152'>Start Challenge</a>                 |
-|      03 | 📖 Основные операции с ключами и значениями в Redis      | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-basic-key-value-operations-in-redis-552077'>Start Lab</a>              |
-|      04 | 🎯 Установка времени жизни ключей (Expire Keys) в Red... | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-expire-keys-in-redis-cache-552156'>Start Challenge</a>                 |
-|      05 | 📖 Введение в структуры данных Redis                     | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-introduction-to-redis-data-structures-552078'>Start Lab</a>            |
-|      06 | 🎯 Добавление элемента в Redis To-Do List (Список дел... | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-add-item-to-redis-to-do-list-552161'>Start Challenge</a>               |
-|      07 | 📖 Базовое управление данными в Redis                    | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-basic-data-management-in-redis-552076'>Start Lab</a>                   |
-|      08 | 🎯 Увеличение Redis-счетчика для посещений веб-сайта     | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-increment-redis-counter-for-website-visits-552163'>Start Challenge</a> |
-|      09 | 📖 Персистентность и простая конфигурация в Redis        | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Start Lab</a>    |
-|      10 | 🎯 Настройка лимита Maxmemory в Redis                    | ★☆☆          | <a target='_blank' href='https://labex.io/ru/tutorials/redis-configure-redis-maxmemory-limit-552162'>Start Challenge</a>            |
+|   Индекс | Название                                                 | Сложность   | Практика                                                                                                                                  |
+|----------|----------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Установка и начальная настройка Redis                 | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-installation-and-initial-setup-of-redis-552075'>Начать Лабораторию</a>       |
+|       02 | 🎯 Проверка статуса сервера Redis                        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-verify-redis-server-status-552152'>Начать Испытание</a>                      |
+|       03 | 📖 Основные операции с ключами и значениями в Redis      | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-basic-key-value-operations-in-redis-552077'>Начать Лабораторию</a>           |
+|       04 | 🎯 Установка времени жизни ключей (Expire Keys) в Red... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-expire-keys-in-redis-cache-552156'>Начать Испытание</a>                      |
+|       05 | 📖 Введение в структуры данных Redis                     | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-introduction-to-redis-data-structures-552078'>Начать Лабораторию</a>         |
+|       06 | 🎯 Добавление элемента в Redis To-Do List (Список дел... | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-add-item-to-redis-to-do-list-552161'>Начать Испытание</a>                    |
+|       07 | 📖 Базовое управление данными в Redis                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-basic-data-management-in-redis-552076'>Начать Лабораторию</a>                |
+|       08 | 🎯 Увеличение Redis-счетчика для посещений веб-сайта     | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-increment-redis-counter-for-website-visits-552163'>Начать Испытание</a>      |
+|       09 | 📖 Персистентность и простая конфигурация в Redis        | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Начать Лабораторию</a> |
+|       10 | 🎯 Настройка лимита Maxmemory в Redis                    | ★☆☆         | <a target='_blank' href='https://labex.io/ru/tutorials/redis-configure-redis-maxmemory-limit-552162'>Начать Испытание</a>                 |
 
 ## Больше
 
