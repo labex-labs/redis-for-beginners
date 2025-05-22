@@ -1,6 +1,6 @@
 # Redis 초보자를 위한 안내
 
-## Languages
+## 언어
 
 🇨🇳 [简体中文](README_zh.md) 🇪🇸 [Español](README_es.md) 🇫🇷 [Français](README_fr.md) 🇩🇪 [Deutsch](README_de.md) 🇯🇵 [日本語](README_ja.md) 🇷🇺 [Русский](README_ru.md) 🇰🇷 [한국어](README_ko.md) 🇧🇷 [Português](README_pt.md) 🇺🇸 [English](README.md) 
 
@@ -29,18 +29,18 @@ LabEx 는 코딩과 기술에 전념하는 대화형 실습 학습 플랫폼입�
 
 ## 연습
 
-|   Index | Name                                           | Difficulty   | Practice                                                                                                                            |
-|---------|------------------------------------------------|--------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Redis 설치 및 초기 설정                     | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-installation-and-initial-setup-of-redis-552075'>Start Lab</a>          |
-|      02 | 🎯 Redis 서버 상태 확인                        | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-verify-redis-server-status-552152'>Start Challenge</a>                 |
-|      03 | 📖 Redis 기본 키 - 값 연산                     | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-key-value-operations-in-redis-552077'>Start Lab</a>              |
-|      04 | 🎯 Redis 캐시에서 키 만료시키기                | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-expire-keys-in-redis-cache-552156'>Start Challenge</a>                 |
-|      05 | 📖 Redis 데이터 구조 소개                      | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-introduction-to-redis-data-structures-552078'>Start Lab</a>            |
-|      06 | 🎯 Redis 할 일 목록에 항목 추가                | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-add-item-to-redis-to-do-list-552161'>Start Challenge</a>               |
-|      07 | 📖 Redis 기본 데이터 관리                      | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-data-management-in-redis-552076'>Start Lab</a>                   |
-|      08 | 🎯 웹사이트 방문 횟수 증가를 위한 Redis 카운터 | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-increment-redis-counter-for-website-visits-552163'>Start Challenge</a> |
-|      09 | 📖 Redis 지속성 및 간단한 설정                 | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Start Lab</a>    |
-|      10 | 🎯 Redis Maxmemory 제한 설정                   | ★☆☆          | <a target='_blank' href='https://labex.io/ko/tutorials/redis-configure-redis-maxmemory-limit-552162'>Start Challenge</a>            |
+|   인덱스 | 이름                                           | 난이도   | 연습                                                                                                                             |
+|----------|------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 Redis 설치 및 초기 설정                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-installation-and-initial-setup-of-redis-552075'>실습 시작</a>       |
+|       02 | 🎯 Redis 서버 상태 확인                        | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-verify-redis-server-status-552152'>도전 시작</a>                    |
+|       03 | 📖 Redis 기본 키 - 값 연산                     | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-key-value-operations-in-redis-552077'>실습 시작</a>           |
+|       04 | 🎯 Redis 캐시에서 키 만료시키기                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-expire-keys-in-redis-cache-552156'>도전 시작</a>                    |
+|       05 | 📖 Redis 데이터 구조 소개                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-introduction-to-redis-data-structures-552078'>실습 시작</a>         |
+|       06 | 🎯 Redis 할 일 목록에 항목 추가                | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-add-item-to-redis-to-do-list-552161'>도전 시작</a>                  |
+|       07 | 📖 Redis 기본 데이터 관리                      | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-data-management-in-redis-552076'>실습 시작</a>                |
+|       08 | 🎯 웹사이트 방문 횟수 증가를 위한 Redis 카운터 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-increment-redis-counter-for-website-visits-552163'>도전 시작</a>    |
+|       09 | 📖 Redis 지속성 및 간단한 설정                 | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>실습 시작</a> |
+|       10 | 🎯 Redis Maxmemory 제한 설정                   | ★☆☆      | <a target='_blank' href='https://labex.io/ko/tutorials/redis-configure-redis-maxmemory-limit-552162'>도전 시작</a>               |
 
 ## 더 보기
 
