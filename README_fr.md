@@ -31,20 +31,20 @@ En savoir plus sur [LabEx VM](https://support.labex.io/using-labex/virtual-machi
 
 |   Index | Nom                                                      | Difficulté   | Pratique                                                                                                                                |
 |---------|----------------------------------------------------------|--------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 Installation et configuration initiale de Redis       | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-installation-and-initial-setup-of-redis-552075'>Commencer le Lab</a>       |
-|      02 | 🎯 Vérifier l'état du serveur Redis                      | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-verify-redis-server-status-552152'>Commencer le Défi</a>                   |
-|      03 | 📖 Opérations Clé-Valeur de Base dans Redis              | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-basic-key-value-operations-in-redis-552077'>Commencer le Lab</a>           |
-|      04 | 🎯 Expiration des Clés dans le Cache Redis               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-expire-keys-in-redis-cache-552156'>Commencer le Défi</a>                   |
-|      05 | 📖 Introduction aux Structures de Données Redis          | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-introduction-to-redis-data-structures-552078'>Commencer le Lab</a>         |
-|      06 | 🎯 Ajouter un élément à une liste de tâches Redis        | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-add-item-to-redis-to-do-list-552161'>Commencer le Défi</a>                 |
-|      07 | 📖 Gestion basique des données dans Redis                | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-basic-data-management-in-redis-552076'>Commencer le Lab</a>                |
-|      08 | 🎯 Incrémenter un compteur Redis pour les visites de ... | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-increment-redis-counter-for-website-visits-552163'>Commencer le Défi</a>   |
-|      09 | 📖 Persistance et configuration simple dans Redis        | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Commencer le Lab</a> |
-|      10 | 🎯 Configurer la limite Maxmemory de Redis               | ★☆☆          | <a target='_blank' href='https://labex.io/fr/tutorials/redis-configure-redis-maxmemory-limit-552162'>Commencer le Défi</a>              |
+|      01 | 📖 Installation et configuration initiale de Redis       | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-installation-and-initial-setup-of-redis-552075'>Commencer le Lab</a>       |
+|      02 | 🎯 Vérifier l'état du serveur Redis                      | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-verify-redis-server-status-552152'>Commencer le Défi</a>                   |
+|      03 | 📖 Opérations Clé-Valeur de Base dans Redis              | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-basic-key-value-operations-in-redis-552077'>Commencer le Lab</a>           |
+|      04 | 🎯 Expiration des Clés dans le Cache Redis               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-expire-keys-in-redis-cache-552156'>Commencer le Défi</a>                   |
+|      05 | 📖 Introduction aux Structures de Données Redis          | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-introduction-to-redis-data-structures-552078'>Commencer le Lab</a>         |
+|      06 | 🎯 Ajouter un élément à une liste de tâches Redis        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-add-item-to-redis-to-do-list-552161'>Commencer le Défi</a>                 |
+|      07 | 📖 Gestion basique des données dans Redis                | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-basic-data-management-in-redis-552076'>Commencer le Lab</a>                |
+|      08 | 🎯 Incrémenter un compteur Redis pour les visites de ... | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-increment-redis-counter-for-website-visits-552163'>Commencer le Défi</a>   |
+|      09 | 📖 Persistance et configuration simple dans Redis        | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Commencer le Lab</a> |
+|      10 | 🎯 Configurer la limite Maxmemory de Redis               | Débutant     | <a target='_blank' href='https://labex.io/fr/tutorials/redis-configure-redis-maxmemory-limit-552162'>Commencer le Défi</a>              |
 
 ## Plus
 
-- 🔗 [Database Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
-- 🔗 [Database Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [Database Free Tutorials](https://github.com/labex-labs/redis-free-tutorials)
+- 🔗 [Database Cours de Programmation](https://github.com/labex-labs/awesome-programming-courses)
+- 🔗 [Database Projets de Programmation](https://github.com/labex-labs/awesome-programming-projects)
+- 🔗 [Database Tutoriels Gratuits](https://github.com/labex-labs/redis-free-tutorials)
 
