@@ -15,18 +15,18 @@
 
 ## 演習
 
-|   インデックス | 名前                                                              | 難易度   | 練習                                                                                                                                 |
-|----------------|-------------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------|
-|             01 | 📖 🟢 Redis のインストールと初期設定                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-installation-and-initial-setup-of-redis-552075'>ラボを開始</a>          |
-|             02 | 🎯 🟢 Redis サーバーのステータス検証                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-verify-redis-server-status-552152'>チャレンジを開始</a>                 |
-|             03 | 📖 🟢 Redis の基本的なキーと値の操作                              | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-basic-key-value-operations-in-redis-552077'>ラボを開始</a>              |
-|             04 | 🎯 🟢 Redis キャッシュ内のキーの有効期限設定                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-expire-keys-in-redis-cache-552156'>チャレンジを開始</a>                 |
-|             05 | 📖 🟢 Redis データ構造入門                                        | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-introduction-to-redis-data-structures-552078'>ラボを開始</a>            |
-|             06 | 🎯 🟢 Redis To-Do リストへのアイテム追加                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-add-item-to-redis-to-do-list-552161'>チャレンジを開始</a>               |
-|             07 | 📖 🟢 Redis での基本的なデータ管理                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-basic-data-management-in-redis-552076'>ラボを開始</a>                   |
-|             08 | 🎯 🟢 ウェブサイト訪問数のための Redis カウンターのインクリメント | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-increment-redis-counter-for-website-visits-552163'>チャレンジを開始</a> |
-|             09 | 📖 🟢 Redis における永続性と簡単な構成                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>ラボを開始</a>    |
-|             10 | 🎯 🟢 Redis Maxmemory 制限の設定                                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-configure-redis-maxmemory-limit-552162'>チャレンジを開始</a>            |
+|   インデックス | 名前                                                            | 難易度   | 練習                                                                                                                                 |
+|----------------|-----------------------------------------------------------------|----------|--------------------------------------------------------------------------------------------------------------------------------------|
+|             01 | 📖 🆓 Redis のインストールと初期設定                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-installation-and-initial-setup-of-redis-552075'>ラボを開始</a>          |
+|             02 | 🎯 🆓 Redis サーバーのステータス検証                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-verify-redis-server-status-552152'>チャレンジを開始</a>                 |
+|             03 | 📖 🆓 Redis の基本的なキーと値の操作                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-basic-key-value-operations-in-redis-552077'>ラボを開始</a>              |
+|             04 | 🎯 🆓 Redis キャッシュ内のキーの有効期限設定                    | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-expire-keys-in-redis-cache-552156'>チャレンジを開始</a>                 |
+|             05 | 📖 🆓 Redis データ構造入門                                      | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-introduction-to-redis-data-structures-552078'>ラボを開始</a>            |
+|             06 | 🎯  Redis To-Do リストへのアイテム追加                          | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-add-item-to-redis-to-do-list-552161'>チャレンジを開始</a>               |
+|             07 | 📖  Redis での基本的なデータ管理                                | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-basic-data-management-in-redis-552076'>ラボを開始</a>                   |
+|             08 | 🎯  ウェブサイト訪問数のための Redis カウンターのインクリメント | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-increment-redis-counter-for-website-visits-552163'>チャレンジを開始</a> |
+|             09 | 📖  Redis における永続性と簡単な構成                            | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>ラボを開始</a>    |
+|             10 | 🎯  Redis Maxmemory 制限の設定                                  | 初級     | <a target='_blank' href='https://labex.io/ja/tutorials/redis-configure-redis-maxmemory-limit-552162'>チャレンジを開始</a>            |
 
 ## 環境
 
