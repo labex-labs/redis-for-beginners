@@ -15,18 +15,18 @@
 
 ## 연습
 
-|   인덱스 | 이름                                              | 난이도   | 연습                                                                                                                             |
-|----------|---------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
-|       01 | 📖 🟢 Redis 설치 및 초기 설정                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-installation-and-initial-setup-of-redis-552075'>실습 시작</a>       |
-|       02 | 🎯 🟢 Redis 서버 상태 확인                        | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-verify-redis-server-status-552152'>도전 시작</a>                    |
-|       03 | 📖 🟢 Redis 기본 키 - 값 연산                     | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-key-value-operations-in-redis-552077'>실습 시작</a>           |
-|       04 | 🎯 🟢 Redis 캐시에서 키 만료시키기                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-expire-keys-in-redis-cache-552156'>도전 시작</a>                    |
-|       05 | 📖 🟢 Redis 데이터 구조 소개                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-introduction-to-redis-data-structures-552078'>실습 시작</a>         |
-|       06 | 🎯 🟢 Redis 할 일 목록에 항목 추가                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-add-item-to-redis-to-do-list-552161'>도전 시작</a>                  |
-|       07 | 📖 🟢 Redis 기본 데이터 관리                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-data-management-in-redis-552076'>실습 시작</a>                |
-|       08 | 🎯 🟢 웹사이트 방문 횟수 증가를 위한 Redis 카운터 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-increment-redis-counter-for-website-visits-552163'>도전 시작</a>    |
-|       09 | 📖 🟢 Redis 지속성 및 간단한 설정                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>실습 시작</a> |
-|       10 | 🎯 🟢 Redis Maxmemory 제한 설정                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-configure-redis-maxmemory-limit-552162'>도전 시작</a>               |
+|   인덱스 | 이름                                            | 난이도   | 연습                                                                                                                             |
+|----------|-------------------------------------------------|----------|----------------------------------------------------------------------------------------------------------------------------------|
+|       01 | 📖 🆓 Redis 설치 및 초기 설정                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-installation-and-initial-setup-of-redis-552075'>실습 시작</a>       |
+|       02 | 🎯 🆓 Redis 서버 상태 확인                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-verify-redis-server-status-552152'>도전 시작</a>                    |
+|       03 | 📖 🆓 Redis 기본 키 - 값 연산                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-key-value-operations-in-redis-552077'>실습 시작</a>           |
+|       04 | 🎯 🆓 Redis 캐시에서 키 만료시키기              | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-expire-keys-in-redis-cache-552156'>도전 시작</a>                    |
+|       05 | 📖 🆓 Redis 데이터 구조 소개                    | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-introduction-to-redis-data-structures-552078'>실습 시작</a>         |
+|       06 | 🎯  Redis 할 일 목록에 항목 추가                | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-add-item-to-redis-to-do-list-552161'>도전 시작</a>                  |
+|       07 | 📖  Redis 기본 데이터 관리                      | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-basic-data-management-in-redis-552076'>실습 시작</a>                |
+|       08 | 🎯  웹사이트 방문 횟수 증가를 위한 Redis 카운터 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-increment-redis-counter-for-website-visits-552163'>도전 시작</a>    |
+|       09 | 📖  Redis 지속성 및 간단한 설정                 | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>실습 시작</a> |
+|       10 | 🎯  Redis Maxmemory 제한 설정                   | 초급     | <a target='_blank' href='https://labex.io/ko/tutorials/redis-configure-redis-maxmemory-limit-552162'>도전 시작</a>               |
 
 ## 환경
 
