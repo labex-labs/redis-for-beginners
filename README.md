@@ -15,22 +15,22 @@ In this course, learn the fundamentals of Redis, including installation, key-val
 
 ## Exercises
 
-|   Index | Name                                              | Difficulty   | Practice                                                                                                                         |
-|---------|---------------------------------------------------|--------------|----------------------------------------------------------------------------------------------------------------------------------|
-|      01 | 📖 🆓 Installation and Initial Setup of Redis     | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-installation-and-initial-setup-of-redis-552075'>Start Lab</a>          |
-|      02 | 🎯 🆓 Verify Redis Server Status                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-verify-redis-server-status-552152'>Start Challenge</a>                 |
-|      03 | 📖 🆓 Basic Key-Value Operations in Redis         | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-basic-key-value-operations-in-redis-552077'>Start Lab</a>              |
-|      04 | 🎯 🆓 Expire Keys In Redis Cache                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-expire-keys-in-redis-cache-552156'>Start Challenge</a>                 |
-|      05 | 📖 🆓 Introduction to Redis Data Structures       | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-introduction-to-redis-data-structures-552078'>Start Lab</a>            |
-|      06 | 🎯  Add Item to Redis To-Do List                  | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-add-item-to-redis-to-do-list-552161'>Start Challenge</a>               |
-|      07 | 📖  Basic Data Management in Redis                | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-basic-data-management-in-redis-552076'>Start Lab</a>                   |
-|      08 | 🎯  Increment Redis Counter for Website Visits    | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-increment-redis-counter-for-website-visits-552163'>Start Challenge</a> |
-|      09 | 📖  Persistence and Simple Configuration in Redis | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-persistence-and-simple-configuration-in-redis-552079'>Start Lab</a>    |
-|      10 | 🎯  Configure Redis Maxmemory Limit               | Beginner     | <a target='_blank' href='https://labex.io/tutorials/redis-configure-redis-maxmemory-limit-552162'>Start Challenge</a>            |
+|   Index | Name                                              | Difficulty   | Practice                                                                                                                                               |
+|---------|---------------------------------------------------|--------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+|      01 | 🧩 🆓 Installation and Initial Setup of Redis     | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-installation-and-initial-setup-of-redis-552075?course=redis-for-beginners'>Start Lab</a>          |
+|      02 | 🎯 🆓 Verify Redis Server Status                  | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-verify-redis-server-status-552152?course=redis-for-beginners'>Start Challenge</a>                 |
+|      03 | 🧩 🆓 Basic Key-Value Operations in Redis         | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-basic-key-value-operations-in-redis-552077?course=redis-for-beginners'>Start Lab</a>              |
+|      04 | 🎯 🆓 Expire Keys In Redis Cache                  | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-expire-keys-in-redis-cache-552156?course=redis-for-beginners'>Start Challenge</a>                 |
+|      05 | 🧩 🆓 Introduction to Redis Data Structures       | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-introduction-to-redis-data-structures-552078?course=redis-for-beginners'>Start Lab</a>            |
+|      06 | 🎯  Add Item to Redis To-Do List                  | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-add-item-to-redis-to-do-list-552161?course=redis-for-beginners'>Start Challenge</a>               |
+|      07 | 🧩  Basic Data Management in Redis                | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-basic-data-management-in-redis-552076?course=redis-for-beginners'>Start Lab</a>                   |
+|      08 | 🎯  Increment Redis Counter for Website Visits    | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-increment-redis-counter-for-website-visits-552163?course=redis-for-beginners'>Start Challenge</a> |
+|      09 | 🧩  Persistence and Simple Configuration in Redis | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-persistence-and-simple-configuration-in-redis-552079?course=redis-for-beginners'>Start Lab</a>    |
+|      10 | 🎯  Configure Redis Maxmemory Limit               | Beginner     | <a target='_blank' href='https://labex.io/labs/redis-configure-redis-maxmemory-limit-552162?course=redis-for-beginners'>Start Challenge</a>            |
 
 ## About LabEx
 
-LabEx is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the Skill Tree learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, LabEx offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
+[LabEx](https://labex.io) is an interactive, hands-on learning platform dedicated to coding and technology. It combines labs, AI assistance, and virtual machines to provide a no-video, practical learning experience. With a strict 'Learn by Doing' approach, interactive online environments in the browser with automated step-by-step checks, structured content organization through the [Skill Tree](https://labex.io/learn) learning system, and a growing resource of 30 Skill Trees and over 6,000 Labs, [LabEx](https://labex.io) offers comprehensive practical education. The platform includes Labby, an AI learning assistant built on latest AI models, providing a conversational learning experience.
 
 ## More
 
